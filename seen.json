@@ -1,0 +1,10 @@
+{
+ "bootstrapped": [],
+ "health": {
+  "ebay": {
+   "alerted": false,
+   "fails": 0
+  }
+ },
+ "seen": {}
+}
