@@ -1,0 +1,9 @@
+{
+  "_aide": "Pour chaque site : faites la recherche à la main (BMW E12 + porte), triez par date décroissante, copiez l'URL de la page de résultats ici. Les entrées contenant REMPLACER sont ignorées.",
+  "lesanciennes": [
+    "REMPLACER_PAR_URL_DE_RECHERCHE_LESANCIENNES_TRIEE_PAR_DATE"
+  ],
+  "autre_site": [
+    "REMPLACER_PAR_URL_DE_RECHERCHE_D_UN_AUTRE_SITE"
+  ]
+}
